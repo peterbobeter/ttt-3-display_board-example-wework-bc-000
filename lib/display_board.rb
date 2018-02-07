@@ -5,3 +5,4 @@ def display_board
   2.times puts "-----------"
 end
 
+display_board
